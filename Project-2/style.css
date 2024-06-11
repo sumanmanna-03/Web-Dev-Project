@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#body{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 170px;
+  box-shadow: 2px 1px 2px #eee;
+}
+#fuck{
+  display: flex;
+  justify-content: space-between;
+}
+.logo{
+  padding: 10px 20px;
+  font-size: 30px;
+  border: 2px solid black;
+  color: #454141;
+}
+.class{
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #454141;
+  font-size: 17px;
+  border: 1px solid red;
+  margin: 10px;
+  border-radius: 20px;
+}
